@@ -14,6 +14,7 @@
 ## 损失函数
 
 * 何恺明大神的「Focal Loss」，如何更好地理解？ - PaperWeekly的文章 - 知乎 https://zhuanlan.zhihu.com/p/32423092
+* [Focal Loss for Dense Object Detection in PyTorch](https://github.com/clcarwin/focal_loss_pytorch)
 
 ## HPO
 

@@ -18,6 +18,15 @@
 
 ## MCMC
 
+## Gaussian Processes
+
+1. [A Visual Exploration of Gaussian Processes](https://jgoertler.com/visual-exploration-gaussian-processes/)
+
+##  Others
+
+1. [The Gumbel-Softmax Trick for Inference of Discrete Variables](https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html)
+2. 
+
 
 
 

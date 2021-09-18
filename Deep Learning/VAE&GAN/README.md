@@ -2,6 +2,7 @@
 
 1. 花式解释AutoEncoder与VAE - Sherlock的文章 - 知乎 https://zhuanlan.zhihu.com/p/27549418
 2. 变分自编码器介绍、推导及实现 - Hola的文章 - 知乎 https://zhuanlan.zhihu.com/p/83865427
+3. VQ-VAE解读 - Elijha的文章 - 知乎 https://zhuanlan.zhihu.com/p/91434658
 
 ## GAN
 
