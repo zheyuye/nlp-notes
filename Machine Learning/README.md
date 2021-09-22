@@ -1,3 +1,8 @@
+# Machine Learning
+
+## Activation
+
+详解softmax函数以及相关求导过程 - 忆臻的文章 - 知乎 https://zhuanlan.zhihu.com/p/25723112
 
 ## Liner Regression
 
@@ -16,8 +21,6 @@
 * 人人都懂EM算法 - August的文章 - 知乎 https://zhuanlan.zhihu.com/p/36331115
 * [如何感性地理解EM算法？](https://www.jianshu.com/p/1121509ac1dc )
 
-## MCMC
-
 ## Gaussian Processes
 
 1. [A Visual Exploration of Gaussian Processes](https://jgoertler.com/visual-exploration-gaussian-processes/)
@@ -25,7 +28,6 @@
 ##  Others
 
 1. [The Gumbel-Softmax Trick for Inference of Discrete Variables](https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html)
-2. 
 
 
 

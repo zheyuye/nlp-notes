@@ -8,7 +8,8 @@
 4. [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 5. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#citation)
 6. [The Story of Heads](https://lena-voita.github.io/posts/acl19_heads.html)
-7. 
+7. transformer中的attention为什么scaled? - TniL的回答 - 知乎 https://www.zhihu.com/question/339723385/answer/782509914
+8. NLP中的Transformer架构在训练和测试时是如何做到decoder的并行化的？ - 市井小民的回答 - 知乎 https://www.zhihu.com/question/307197229/answer/1859981235
 
 ## Basic
 
@@ -18,6 +19,7 @@
 4. **[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/)**
 5. **[The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html)**
 6. **[The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](https://jalammar.github.io/illustrated-bert/)**
+7. 为什么 Bert 的三个 Embedding 可以进行相加？ - 邱锡鹏的回答 - 知乎 https://www.zhihu.com/question/374835153/answer/1080315948
 
 ## PTMs
 
