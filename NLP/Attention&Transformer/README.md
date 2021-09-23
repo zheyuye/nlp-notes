@@ -8,7 +8,6 @@
 4. [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html)
 5. [Attention and Augmented Recurrent Neural Networks](https://distill.pub/2016/augmented-rnns/#citation)
 6. [The Story of Heads](https://lena-voita.github.io/posts/acl19_heads.html)
-7. 
 
 ## Basic
 
