@@ -13,9 +13,10 @@
 
 ## 损失函数
 
-* 何恺明大神的「Focal Loss」，如何更好地理解？ - PaperWeekly的文章 - 知乎 https://zhuanlan.zhihu.com/p/32423092
+* Focal loss论文详解 - 逍遥王可爱的文章 - 知乎 https://zhuanlan.zhihu.com/p/49981234
 * [Focal Loss for Dense Object Detection in PyTorch](https://github.com/clcarwin/focal_loss_pytorch)
 * triplet loss 损失函数 - 洪雨的文章 - 知乎 https://zhuanlan.zhihu.com/p/171627918
+* [Triplet Loss and Online Triplet Mining in TensorFlow](https://omoindrot.github.io/triplet-loss)
 
 ## HPO
 
