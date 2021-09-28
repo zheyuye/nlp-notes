@@ -6,10 +6,12 @@
 
 ## 优化器差异
 
-* [DL笔记] 从SGD到AdamW - 莫冉的文章 - 知乎 https://zhuanlan.zhihu.com/p/113112032
 * https://www.fast.ai/2018/07/02/adam-weight-decay/
+* 深度学习最全优化方法总结比较（SGD，Adagrad，Adadelta，Adam，Adamax，Nadam） - 余昌黔的文章 - 知乎 https://zhuanlan.zhihu.com/p/22252270
 * 当前训练神经网络最快的方式：AdamW优化算法+超级收敛 - 机器之心的文章 - 知乎 https://zhuanlan.zhihu.com/p/38945390
 * 都9102年了，别再用Adam + L2 regularization了 - paperplanet的文章 - 知乎 https://zhuanlan.zhihu.com/p/63982470
+* 关于weight_decay的深度分析 - Jack Sigmoid的文章 - 知乎 https://zhuanlan.zhihu.com/p/339448370
+* [Why is it important to include a bias correction term for the Adam optimizer for Deep Learning?](https://stats.stackexchange.com/questions/232741/why-is-it-important-to-include-a-bias-correction-term-for-the-adam-optimizer-for)
 
 ## 损失函数
 
