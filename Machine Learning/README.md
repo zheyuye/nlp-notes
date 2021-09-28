@@ -14,7 +14,8 @@
 
 ## K-NN
 
-* 一文搞懂k近邻（k-NN）算法（一） - 忆臻的文章 - 知乎 https://zhuanlan.zhihu.com/p/25994179
+1. 一文搞懂k近邻（k-NN）算法（一） - 忆臻的文章 - 知乎 https://zhuanlan.zhihu.com/p/25994179
+2. KNN算法的Python源码实现 - LCW-dmlearning的文章 - 知乎 https://zhuanlan.zhihu.com/p/32581614
 
 ## EM
 
@@ -29,7 +30,11 @@
 
 ##  Others
 
+<<<<<<< HEAD
 * [The Gumbel-Softmax Trick for Inference of Discrete Variables](https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html)
+=======
+1. [The Gumbel-Softmax Trick for Inference of Discrete Variables](https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html)
+>>>>>>> 20edd6e9dbe18c14d376b60114f771d048dd8617
 
 
 
