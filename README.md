@@ -23,4 +23,3 @@
 6. [immersive linear algebra](http://immersivemath.com/ila/)
 
 7. [Deep Learning Book Chinese Translation](https://exacity.github.io/deeplearningbook-chinese/)
-

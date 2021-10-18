@@ -15,7 +15,6 @@
 ## K-NN
 
 1. 一文搞懂k近邻（k-NN）算法（一） - 忆臻的文章 - 知乎 https://zhuanlan.zhihu.com/p/25994179
-2. KNN算法的Python源码实现 - LCW-dmlearning的文章 - 知乎 https://zhuanlan.zhihu.com/p/32581614
 
 ## EM
 

@@ -12,6 +12,7 @@
 * 都9102年了，别再用Adam + L2 regularization了 - paperplanet的文章 - 知乎 https://zhuanlan.zhihu.com/p/63982470
 * 关于weight_decay的深度分析 - Jack Sigmoid的文章 - 知乎 https://zhuanlan.zhihu.com/p/339448370
 * [Why is it important to include a bias correction term for the Adam optimizer for Deep Learning?](https://stats.stackexchange.com/questions/232741/why-is-it-important-to-include-a-bias-correction-term-for-the-adam-optimizer-for)
+* 移动平均(Moving Average) - Alex Chung的文章 - 知乎 https://zhuanlan.zhihu.com/p/151786842
 
 ## 损失函数
 
