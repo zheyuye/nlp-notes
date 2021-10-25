@@ -31,6 +31,10 @@
 
 4. [A Deep Dive into the Reformer](https://www.pragmatic.ml/reformer-deep-dive/)
 
+5. 多项NLP任务新SOTA，Facebook提出预训练模型BART - 机器之心的文章 - 知乎 https://zhuanlan.zhihu.com/p/90173832
+
+   
+
 ## Model Compressing 
 
 1. [Pruning BERT to accelerate inference](https://rasa.com/blog/pruning-bert-to-accelerate-inference/)

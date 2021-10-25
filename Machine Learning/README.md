@@ -11,6 +11,7 @@
 ## SVM
 
 * 看了这篇文章你还不懂SVM你就来打我 - SMON的文章 - 知乎 https://zhuanlan.zhihu.com/p/49331510
+* [SVM笔记](https://plmsmile.github.io/2018/03/01/27-svm-notes/)
 
 ## K-NN
 
@@ -29,13 +30,5 @@
 
 ##  Others
 
-<<<<<<< HEAD
 * [The Gumbel-Softmax Trick for Inference of Discrete Variables](https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html)
-=======
-1. [The Gumbel-Softmax Trick for Inference of Discrete Variables](https://casmls.github.io/general/2017/02/01/GumbelSoftmax.html)
->>>>>>> 20edd6e9dbe18c14d376b60114f771d048dd8617
-
-
-
-
-
+* [详解最大似然估计（MLE）、最大后验概率估计（MAP），以及贝叶斯公式的理解（转载）](https://zhuanlan.zhihu.com/p/48071601)

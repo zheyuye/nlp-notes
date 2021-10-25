@@ -8,5 +8,7 @@
 
 ## MCMC
 
-如何快速理解马尔科夫链蒙特卡洛法？ - PaperWeekly的文章 - 知乎 https://zhuanlan.zhihu.com/p/108621943
+1. 如何快速理解马尔科夫链蒙特卡洛法？ - PaperWeekly的文章 - 知乎 https://zhuanlan.zhihu.com/p/108621943
+
+2. [马尔可夫链与蒙特卡洛(MCMC)](https://hanyuz1996.github.io/2017/08/22/mcmc/)
 
